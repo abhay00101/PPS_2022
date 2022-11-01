@@ -1,4 +1,4 @@
-### Program 2 : Program to add two numbers"
+### Program 2 : Write a program to add two number
 ```C
 #include <stdio.h>
 
@@ -14,4 +14,3 @@ printf("Sum of numbers %d, %d is = %d\n",a,b,c);return 0;
 }
 ```
 **output : Program to add two numbers**
-
