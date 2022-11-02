@@ -1,3 +1,6 @@
+## Program 2: Using While loop
+
+```c
 // Using While loop 
 #include <stdio.h>
 int main(){
@@ -6,3 +9,7 @@ while(i<=10)
 printf("%d\n",1);
 i++;
 }
+```
+
+## Output
+
