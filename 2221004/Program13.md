@@ -1,4 +1,5 @@
 ## Program13:To find area of a square 
+```C
 #include<stdio.h>
 int main()
 {
