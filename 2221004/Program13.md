@@ -3,9 +3,9 @@
 int main()
 {
 int side;
-printf("enter side");
-scanf("%d"  , &side);
-printf("area is : %d", side*side);
+printf("20");
+scanf("%d"  , &20);
+printf("area is : %d", 20*20);
 
 return 0;
 }
