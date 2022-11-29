@@ -18,4 +18,4 @@ return 0;
 }
 ```
 
-## Output : Write a program to show the iuse of break statement
+## Output : 0 1 2 3
