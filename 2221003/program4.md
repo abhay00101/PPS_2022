@@ -1,6 +1,6 @@
 ### Program 4 : Write a program to show the iuse of break statement.
-```
 
+```C
 #include<stdio.h>
 int main()
 {
@@ -16,5 +16,6 @@ i++;
 }
 return 0;
 }
+```
 
-## Output : Write a program to show the iuse of break statement.
+## Output : Write a program to show the iuse of break statement
