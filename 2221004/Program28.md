@@ -1,5 +1,5 @@
-Write a program using string comparison function :-
-
+## Write a program using string comparison function :-
+```
 #include<stdio.h>
 
 #include<string.h>
@@ -31,8 +31,8 @@ printf("String 1 and String 2 are not equal");
 return 0;
 
 }
-
+```
 Output :
-
+```
 
 String 1 and String 2 are not equal
